@@ -15,3 +15,8 @@ gdrive is a command line utility for interacting with Google Drive.
 ## Compile
 
 1. Just edit the cliendID and secret.
+2. ```./compile ```(on linux)
+
+## See image
+
+![1](https://user-images.githubusercontent.com/109218838/179046237-a90d20fe-aedc-4500-a5e8-be94688c2a6a.png)
