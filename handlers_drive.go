@@ -14,9 +14,9 @@ import (
 	"github.com/msfjarvis/gdrive/drive"
 )
 
-const ClientId = "CHANGE ME.apps.googleusercontent.com"
-const ClientSecret = "CHANGE"
-const TokenFilename = "USERNAME_v2.json"
+const ClientId = "304186238740-q017v1uh5er6uq8jstflu2nfmhu2k4tc.apps.googleusercontent.com"
+const ClientSecret = "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"
+const TokenFilename = "token_v2.json"
 const DefaultCacheFileName = "file_cache.json"
 
 func listHandler(ctx cli.Context) {
